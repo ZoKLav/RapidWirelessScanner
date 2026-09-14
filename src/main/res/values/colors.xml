@@ -1,0 +1,8 @@
+<resources>
+    <color name="black">#000000</color>
+    <color name="panel">#121212</color>
+    <color name="panel2">#1B1B1B</color>
+    <color name="white">#F5F5F5</color>
+    <color name="muted">#AAAAAA</color>
+    <color name="default_accent">#E53935</color>
+</resources>
